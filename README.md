@@ -153,6 +153,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Pyvis: Visualize Interactive Network Graphs in Python | [link](https://towardsdatascience.com/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) | [link](https://github.com/khuyentran1401/Data-science/blob/master/visualization/pyvis_examples/pyvis.ipynb)
 | Build and Analyze Knowledge Graphs with Diffbot | [link](https://towardsdatascience.com/build-and-analyze-knowledge-graphs-with-diffbot-2af83065ade0) 
 | Observe The Friend Paradox in Facebook Data Using Python | [link](https://towardsdatascience.com/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4#44e7-514613b6bd18) | [link](https://github.com/khuyentran1401/Data-science/blob/master/visualization/friend_paradox/facebook_network.ipynb)
+| Visualize Similarities Between Companies With Graph Database | [link](https://khuyentran1476.medium.com/visualize-similarities-between-companies-with-graph-database-212af872fbf6) | [link](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fvisualization%2Fanalyze_artificial_intelligence_industry.ipynb)
 
   
 # Mathematical Programming
